@@ -74,7 +74,3 @@ N00000022,76
 ....
 N00000045,67
 ```
-
-## Contributing
-
-It is the first time writing Readme.md and pushing project to github, welcome all comments and discussion for improvements.
