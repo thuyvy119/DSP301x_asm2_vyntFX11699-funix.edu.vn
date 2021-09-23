@@ -1,5 +1,5 @@
 # DSP301x_asm2_vyntFX11699-funix.edu.vn
-This is a small program, it allows user to enter file name, then analyze each line in the input file whether valid or not and notify user the invalid lines with specific causes. 
+This program allows user to enter file name, then analyze each line in the input file whether valid or not and notify user the invalid lines with specific causes. 
 Then calculate the total grades and some basic statistic calculations for each valid line. Finally export the results to ".txt" files.
 
 ## Description
